@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Orange",
+    "category": "S tier",
+    "description": "The orange is often considered the king of fruits for several reasons, and once you know why, it’s easy to see why it deserves such a title! First, the flavor of an orange is unmatched. It’s a perfect balance of sweet and tangy, making it a refreshing treat for people of all ages. Whether eaten on its own, juiced, or used in cooking, its flavor is both unique and satisfying. No other fruit quite captures the same burst of citrusy goodness. Secondly, oranges are incredibly healthy. Packed with vitamin C, they boost immunity and help fight off illnesses. They’re also a good source of antioxidants, and various other nutrients. Oranges are also incredibly versatile. They can be enjoyed fresh, juiced, or turned into marmalade. In many cultures, oranges have been symbols of good luck, wealth, and prosperity. In ancient times, it was a symbol of luxury and rarity. It’s the perfect combination of flavor, nutrition, and versatility—what more could you ask for from a fruit?",
+    "image": "https://avatars.mds.yandex.net/get-yapic/53031/8v6PlYpHsC2e8u9SUnDajlfkFGU-1/islands-200",
+    "quantity": 10,
+    "unit": "pcs",
+    "price": 100
+  },
+  {
+    "id": 2,
+    "name": "Watermelon",
+    "category": "S tier",
+    "description": "Watermelon is S tier obviously. One summer day, my friends and I bought a watermelon, took it on bicycles through half the city to eat it on the embankment, but on the way it slipped from my sweaty hands and crashed on the asphalt. Even after that, we sat down to eat it.",
+    "image": "https://avatars.mds.yandex.net/i?id=7332021e86c91f40b586b4c519d94115-5230098-images-thumbs&n=13",
+    "quantity": 5,
+    "unit": "pcs",
+    "price": 150
+  },
+  {
+    "id": 3,
+    "name": "Cantaloupe",
+    "category": "S tier",
+    "description": "Cantaloupe, it's дыня?",
+    "image": "https://media.komus.ru/medias/sys_master/root/h56/h0a/12292752605214/2044568-1-200Wx200H.jpg",
+    "quantity": 7,
+    "unit": "pcs",
+    "price": 120
+  },
+  {
+    "id": 4,
+    "name": "Fig",
+    "category": "S tier",
+    "description": "Fig, it's just fig and nothing else matters.",
+    "image": "https://cdn.tridge.com/CACHE/images/image/original/f8/60/a9/f860a94dc1a5f58745800b516756afeff6e9c499/cfa2313853d80892cc5bc6b0c867eb6c.jpg",
+    "quantity": 0,
+    "unit": "pcs",
+    "price": 130
+  },
+  {
+    "id": 5,
+    "name": "Mango",
+    "category": "S tier",
+    "description": "When used, it gives you 100 mana.",
+    "image": "https://avatars.mds.yandex.net/i?id=f4ba881bbca09bebda7ad4307c029e61_sr-3577741-images-thumbs&n=13",
+    "quantity": 6,
+    "unit": "pcs",
+    "price": 180
+  },
+  {
+    "id": 6,
+    "name": "Pineapple",
+    "category": "S tier",
+    "description": "PPAP.",
+    "image": "https://fruits-exotic.ru/upload/iblock/9c2/9c2fb13a4b8aa580535f5f68b93d9fcb.jpg",
+    "quantity": 10,
+    "unit": "pcs",
+    "price": 210
+  },
+  {
+    "id": 7,
+    "name": "Lemon",
+    "category": "C tier",
+    "description": "Lemon, it's a fruit? Yeah, it has seeds.",
+    "image": "https://sun9-44.userapi.com/s/v1/if1/CAfDYROnV9H6QaBKBPSr-Z4fjPZUop3Ma_GRlQznmcJ_TyX3rcZEp9LTkAbI-uJS0jN-j7nx.jpg?size=200x200&quality=96&crop=83,0,319,319&ava=1",
+    "quantity": 4,
+    "unit": "pcs",
+    "price": 90
+  },
+  {
+    "id": 8,
+    "name": "Lime",
+    "category": "C tier",
+    "description": "Lime is a green lemon.",
+    "image": "https://avatars.mds.yandex.net/i?id=b82a7ff9e9f444a2b385c0f2dec1cd49_sr-9231751-images-thumbs&n=13",
+    "quantity": 8,
+    "unit": "pcs",
+    "price": 85
+  },
+  {
+    "id": 9,
+    "name": "Grapefruit",
+    "category": "C tier",
+    "description": "With sugar, it's A tier.",
+    "image": "https://avatars.mds.yandex.net/i?id=592a68fc5dae49ce83bae55057f035a5_sr-4903276-images-thumbs&n=13",
+    "quantity": 2,
+    "unit": "pcs",
+    "price": 110
+  },
+  {
+    "id": 10,
+    "name": "Passionfruit",
+    "category": "C tier",
+    "description": "In martini, pornstar is S tier.",
+    "image": "https://www.slabsaugras.ro/wp-content/uploads/2010/11/fructe_exotice_07_09.jpg",
+    "quantity": 5,
+    "unit": "pcs",
+    "price": 140
+  },
+  {
+    "id": 11,
+    "name": "Nectarine",
+    "category": "A tier",
+    "description": "When I eat that, I feel wet.",
+    "image": "https://avatars.mds.yandex.net/i?id=876370f604a8d1f397a4dbda7c7c98b7f48bce83-3752383-images-thumbs&n=13",
+    "quantity": 4,
+    "unit": "pcs",
+    "price": 160
+  },
+  {
+    "id": 12,
+    "name": "Mulberry",
+    "category": "B tier",
+    "description": "In childhood it was my favorite fruit on babushka's ogorod.",
+    "image": "https://avatars.mds.yandex.net/i?id=c7c0f31d454e6348bc366da8dfe2c150-5334917-images-thumbs&n=13",
+    "quantity": 6,
+    "unit": "pcs",
+    "price": 120
+  },
+  {
+    "id": 13,
+    "name": "Cherry",
+    "category": "A tier",
+    "description": "Cherry Tigo.",
+    "image": "https://avatars.mds.yandex.net/i?id=7867583d9c5b61c4143a023b65aff181_sr-9107575-images-thumbs&n=13",
+    "quantity": 15,
+    "unit": "pcs",
+    "price": 190
+  },
+  {
+    "id": 14,
+    "name": "Date",
+    "category": "A tier",
+    "description": "I love dates too much.",
+    "image": "https://avatars.mds.yandex.net/i?id=2a0000017a029d06fa60918e00ca118ef411-3510031-images-thumbs&n=13",
+    "quantity": 20,
+    "unit": "pcs",
+    "price": 210
+  },
+  {
+    "id": 15,
+    "name": "Tangerine",
+    "category": "B tier",
+    "description": "Last Christmas I gave you my heart.",
+    "image": "https://avatars.mds.yandex.net/i?id=2a00000179f667d1ac14edeca534a31b41f9-4438849-images-thumbs&n=13",
+    "quantity": 7,
+    "unit": "pcs",
+    "price": 150
+  },
+  {
+    "id": 16,
+    "name": "Kiwi",
+    "category": "C tier",
+    "description": "Sour fruit = sour face.",
+    "image": "https://avatars.mds.yandex.net/i?id=a98c96de528a96cf44eb56b25a44f50ae35ce171-9154878-images-thumbs&n=13",
+    "quantity": 10,
+    "unit": "pcs",
+    "price": 130
+  },
+  {
+    "id": 17,
+    "name": "Pomelo",
+    "category": "D tier",
+    "description": "I hate Pamela Anderson.",
+    "image": "",
+    "quantity": 3,
+    "unit": "pcs",
+    "price": 140
+  },
+  {
+    "id": 18,
+    "name": "Persimmon",
+    "category": "S tier",
+    "description": "All my childhood I ate persimmon with my mom—it was so good, I love it so much.",
+    "image": "https://avatars.mds.yandex.net/i?id=91f20a400ded175fb4a3eb760b009c1e_sr-9053045-images-thumbs&n=13",
+    "quantity": 5,
+    "unit": "pcs",
+    "price": 160
+  },
+  {
+    "id": 19,
+    "name": "Stawberry",
+    "category": "A tier",
+    "description": "Strawberry + Milk = best match ever.",
+    "image": "https://avatars.mds.yandex.net/i?id=83ee17eca727ddbe8b068a362955a9be_sr-4233836-images-thumbs&n=13",
+    "quantity": 8,
+    "unit": "pcs",
+    "price": 170
+  },
+  {
+    "id": 20,
+    "name": "Plum",
+    "category": "C tier",
+    "description": "I can't say anything about that—it’s boring.",
+    "image": "https://avatars.mds.yandex.net/i?id=3bf9fabec4deaed97fa978fe17de6ddf_sr-9056327-images-thumbs&n=13",
+    "quantity": 4,
+    "unit": "pcs",
+    "price": 110
+  }
+]
